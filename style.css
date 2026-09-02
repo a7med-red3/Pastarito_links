@@ -147,7 +147,7 @@ h1 {
     color:#ffc814;
     width: 100%;
     max-width: 450px;
-    padding: 40px 20px;
+    padding: 30px 20px;
     border-radius: 30px 30px 0 0;
     text-align: center;
     animation: slideUp 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
