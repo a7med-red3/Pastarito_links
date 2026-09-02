@@ -69,15 +69,11 @@ h1 {
     margin-bottom: 30px;
     direction: rtl;
     color: #ffc814;
-
-    
-} 
-.top p{
     font-family: "Beiruti", sans-serif;
     font-optical-sizing: auto;
     font-weight: 900px;
-    font-style: normal;
-}
+    font-style: normal; 
+} 
 .links {
     list-style: none;
     display: flex;
