@@ -70,11 +70,14 @@ h1 {
     direction: rtl;
     color: #ffc814;
 
+    
+} 
+.top p{
     font-family: "Beiruti", sans-serif;
     font-optical-sizing: auto;
     font-weight: 900px;
     font-style: normal;
-} 
+}
 .links {
     list-style: none;
     display: flex;
